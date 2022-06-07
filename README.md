@@ -6,6 +6,6 @@ This notebook determines the optimal segments of merchants.
 
 Upload the data on colab and run all cells.
 
-#Interpretation of Results
+# Interpretation of Results
 
 Under each section there is a summary on the findings.
